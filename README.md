@@ -5,7 +5,7 @@ Quick dirty python script that recursively searches for all .js files in a given
 **Usage**
 To use this script, follow these steps:
 
-1. Assuming you have binary on your system.
+1. Update `target_binary` in the script with the target binary location.
 2. Clone this repository or download the crashwalker.py file.
 3. To run the script once on a specific directory, use the following command:
 
